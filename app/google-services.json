@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "59982566542",
+    "firebase_url": "https://track-845a8.firebaseio.com",
+    "project_id": "track-845a8",
+    "storage_bucket": "track-845a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59982566542:android:6336c5b727295f8a",
+        "android_client_info": {
+          "package_name": "com.example.tejas.track"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59982566542-3lbijtrj82h481nmrg08gjj2kvtevohs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tejas.track",
+            "certificate_hash": "cf3630da4b54ecfd1aedd0e8986165fd1cdc34b1"
+          }
+        },
+        {
+          "client_id": "59982566542-4cv71pun2uvtsldmmp9lme81bpevmotc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0r08pN4xS7CBgtjE7TZlF_xQ3-usm1zo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59982566542-4cv71pun2uvtsldmmp9lme81bpevmotc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
